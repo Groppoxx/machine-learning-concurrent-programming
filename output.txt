@@ -1,0 +1,12 @@
+Concurrente:
+  m=2.0000, b=4.9995
+  Tiempo de entrenamiento: 0.009s
+  MSE: 0.999902
+  R²:  0.999700
+
+Secuencial:
+  m=2.0000, b=4.9995
+  Tiempo de entrenamiento: 0.024s
+  MSE: 0.999902
+  R²:  0.999700
+
